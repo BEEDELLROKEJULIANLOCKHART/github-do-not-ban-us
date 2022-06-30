@@ -895,3 +895,4 @@ You can:
 - Zhuo Y. Chen from China 🇨🇳([wizcas](https://github.com/wizcas))
 - Zoran Young from China 🇨🇳([Zoranner](https://github.com/zoranner))
 - Şahin Mersin from Turkey 🇹🇷 ([electrocoder](https://github.com/electrocoder))
+- Beedell, Roke Julian Lockhart from the United Kingdom of Great Britain and Northern Ireland 🇬🇧 ([BeedellRokeJulianLockhart](http://github.com/beedellrokejulianlockhart))
